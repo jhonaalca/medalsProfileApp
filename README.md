@@ -32,5 +32,5 @@ Una aplicación iOS que muestra un perfil de usuario con sistema de progresión 
    ```bash
    git clone https://github.com/tu-usuario/medals-profile-app.git
    cd medals-profile-app
-
+   open MedalsProfileApp.xcodeproj
    
